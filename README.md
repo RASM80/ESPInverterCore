@@ -41,7 +41,7 @@ The ESP32 code leverages the **MCPWM (Motor Control PWM)** module to generate pr
 - **Logging**: Use of `ESP_LOGI` for effective debugging.
 
 
-### Two phases captured by osciloscope:
+### line-voltages captured by osciloscope:
 ![hardware](image/osciloscope_2phases.png)
 
 
